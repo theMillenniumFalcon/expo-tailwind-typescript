@@ -1,0 +1,1 @@
+A expo, react native, tailwind, typescript starter template
