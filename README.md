@@ -1,1 +1,1 @@
-A expo, react native, tailwind, typescript starter template
+A expo, react native, tailwind, typescript, dotnev, svg transformer starter template
